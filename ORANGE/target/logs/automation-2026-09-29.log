@@ -1,0 +1,159 @@
+2026-09-29T00:10:42,486 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:10:42,526 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:10:49,169 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:11:08,499 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:12:11,293 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:12:11,331 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:12:18,909 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:12:37,998 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:20:45,745 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:20:45,816 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:23:49,548 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:23:49,592 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:23:54,163 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:24:31,529 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:30:10,559 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:30:10,636 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:30:17,311 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:30:40,313 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:39:13,108 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:39:13,146 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:39:20,765 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:39:45,577 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:40:03,448 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:40:03,450 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:40:10,723 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:40:28,054 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:41:12,684 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:41:12,721 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:41:17,460 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:41:43,911 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:42:05,439 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:42:05,441 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:42:12,604 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:42:25,386 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:44:44,585 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:44:44,626 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:44:50,632 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:45:13,008 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:45:28,979 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:45:28,980 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:45:36,457 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:45:50,154 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:46:50,059 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:46:50,096 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:46:54,327 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:47:15,842 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:47:33,065 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:47:33,066 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:47:38,828 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:47:51,833 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:50:51,481 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:50:51,521 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:50:55,792 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:51:17,080 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:51:28,238 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:51:28,279 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:51:34,863 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:51:48,845 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:51:56,497 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:51:56,498 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:52:01,052 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:52:21,837 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:52:21,878 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:52:26,755 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:52:49,198 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:53:05,417 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:53:05,419 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:53:12,251 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:53:25,564 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T00:56:36,917 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:56:36,958 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:56:42,419 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:57:15,233 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T00:57:44,956 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T00:57:44,960 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T00:57:52,287 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:01:50,769 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:01:50,805 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:01:56,671 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:02:28,867 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:03:02,331 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:03:02,333 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:03:10,240 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:03:41,656 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:04:48,126 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:04:48,162 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:04:57,671 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:05:28,099 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:05:45,770 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:05:45,771 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:05:54,384 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:06:29,466 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:11:22,305 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:11:22,344 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:11:28,620 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:11:49,586 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:12:05,730 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:12:05,731 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:12:12,464 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:12:37,036 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:13:47,421 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:13:47,458 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:13:52,017 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:14:13,187 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:14:29,441 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:14:29,442 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:14:36,320 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:15:00,912 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:20:54,781 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:20:54,818 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:20:59,614 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:21:20,505 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:21:36,702 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:21:36,703 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:21:44,483 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:22:10,653 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:25:14,483 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:25:14,520 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:25:20,577 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:25:57,768 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:26:29,205 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:26:29,207 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:26:36,037 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:26:59,918 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:31:18,792 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:31:18,829 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:31:23,631 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:31:44,495 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:32:02,218 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:32:02,219 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:32:09,693 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:32:34,414 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:39:22,150 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:39:22,191 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:39:28,240 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:40:11,746 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:40:11,783 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:40:16,973 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:40:43,232 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:41:04,376 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:41:04,378 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:41:10,978 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:41:40,924 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:46:38,268 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:46:38,305 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:46:43,918 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:47:21,218 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:47:54,752 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:47:54,753 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:48:01,129 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:48:47,647 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:51:19,372 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:51:19,411 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:51:25,563 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:51:56,817 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-29T01:52:20,101 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-29T01:52:20,104 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-29T01:52:27,301 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox
+2026-09-29T01:53:00,086 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con firefox

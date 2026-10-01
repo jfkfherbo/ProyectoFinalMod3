@@ -1,0 +1,32 @@
+2026-09-28T23:06:08,830 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:06:08,880 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:06:15,280 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:06:27,172 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:39:10,882 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:39:10,928 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:39:17,274 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:39:28,132 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:41:01,299 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:41:01,336 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:41:06,622 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:41:16,829 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:44:14,617 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:44:14,655 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:44:19,542 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:44:45,109 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:48:14,746 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:48:14,790 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:48:19,795 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:48:46,314 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:50:33,197 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:50:33,234 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:50:39,366 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:51:05,226 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:56:36,570 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:56:36,607 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:56:41,555 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:56:58,336 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:58:31,079 [main] INFO  (JsonTestDataHelper.java:32) - Leyendo datos de prueba de resources/testdata/employees.json
+2026-09-28T23:58:31,117 [main] INFO  (JsonTestDataHelper.java:36) - Casos leidos: 2
+2026-09-28T23:58:36,841 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
+2026-09-28T23:58:57,642 [main] INFO  (BaseTest.java:49) - Navegando a https://opensource-demo.orangehrmlive.com/web/index.php/auth/login con chrome
